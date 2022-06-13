@@ -5,7 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CheckIn"
         mc:Ignorable="d"
-        Title="Sprachauswahl" Height="200" Width="500" ResizeMode="NoResize"
+        Title="Sprachauswahl / Language selection / sélection de la langue" 
+        Height="200" 
+        Width="500" 
+        ResizeMode="NoResize"
         xmlns:BD="clr-namespace:CheckIn.ViewModel" WindowStartupLocation="CenterScreen">
 
     <Window.DataContext>
